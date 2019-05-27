@@ -8,6 +8,3 @@ Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wik
 or manually using this URL:
 
     https://github.com/Sprk-nl/Octoprint_Plugin_Test/archive/master.zip
-
-
-GitCheckOK
