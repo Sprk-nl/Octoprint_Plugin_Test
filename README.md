@@ -10,3 +10,4 @@ or manually using this URL:
     https://github.com/Sprk-nl/Octoprint_Plugin_Test/archive/master.zip
 
 
+GitCheckOK
